@@ -1,0 +1,1 @@
+# Algoritmos-de-Busca-no-Problema-das-n-Rainhas.
